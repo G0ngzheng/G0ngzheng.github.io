@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /assets/avator.jpeg
-heroText: JUST DO IT
+heroText: JUST DO IT!
 # tagline: Hero 副标题
 # actionText: 快速上手 →
 # actionLink: /zh/guide/
