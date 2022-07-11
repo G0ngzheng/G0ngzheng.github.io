@@ -11,8 +11,8 @@
     "vuepress-plugin-comment": "^0.7.3"
   },
   "scripts": {
-    "start": "vuepress dev src",
-    "docs:dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "start": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   }
 }
