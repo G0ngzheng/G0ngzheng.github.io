@@ -4,7 +4,7 @@ heroImage: /avator.png
 heroText: 前端进阶笔记
 tagline: 收藏等于学会
 actionText: 快速开始 →
-actionLink: /zh/guide/
+actionLink: /guide/
 features:
     - title: 基础
       details: 每一个章节都涵盖基础用法，教你如何用并如何在实际项目中落地最佳实践。
